@@ -3,7 +3,9 @@ const EMPTY_HEART = '♡'
 const FULL_HEART = '♥'
 
 // Your JavaScript code goes here!
+const grabModal = document.querySelector("#modal");
 
+grabModal.setAttribute("class", "hidden");
 
 
 
